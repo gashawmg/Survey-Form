@@ -1,0 +1,10 @@
+#title {
+  color: brown;
+}
+
+input:invalid:required {
+  background-image: linear-gradient(to right, lightblue, lightgreen);
+}
+legend {
+  border: none;
+}
